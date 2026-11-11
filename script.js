@@ -16,5 +16,5 @@ helloBtn.addEventListener("click", function () {
 themeBtn.addEventListener("click", function () {
   // เขียนโค้ดตรงนี้ 1 บรรทัด
   // คำใบ้: document.body.classList.toggle("ชื่อ class");
-  document.body.classList.toggle("12 class");
+  document.body.classList.toggle("dark class");
 });
