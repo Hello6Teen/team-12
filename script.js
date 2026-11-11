@@ -9,7 +9,7 @@ const message = document.getElementById("message");
 // งาน 1: เมื่อกดปุ่ม "ทักทาย" ให้แสดงข้อความของทีม
 helloBtn.addEventListener("click", function () {
   // แก้ข้อความในเครื่องหมายคำพูดเป็นคำทักทายของทีมตัวเอง
-  message.textContent = "สวัสดี!";
+  message.textContent = "สวัสดี คับ พวกเรากลุ่ม 12!";
 });
 
 // งาน 2: เมื่อกดปุ่ม "สลับโหมดมืด" ให้เพิ่มหรือลบ class "dark" ที่ body
